@@ -11,6 +11,7 @@ Tuesday May 9
     
 Wednesday May 10
     https://www.openstack.org/summit/boston-2017/summit-schedule/events/18711/ansible-project-onboarding 09:00 - 10:30
+    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18301 11:50 - 12:30
     https://www.openstack.org/summit/boston-2017/summit-schedule/events/18649/git-and-gerrit-lunch-and-learn 12:40-13:40
     https://www.openstack.org/summit/boston-2017/summit-schedule/events/18759/openstack-ansible-operator-feedback 13:50 - 14:30
 Thursday May 11
