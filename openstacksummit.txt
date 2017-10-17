@@ -1,19 +1,14 @@
-Boston OpenStack Summit - Where to find spotz
+Sydney OpenStack Summit - Where to find spotz
 
-Saturday and Sunday May 6-7
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18639/openstack-upstream-institute-sponsored-by-lenovo-day-1
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18640/openstack-upstream-institute-sponsored-by-lenovo-day-2
-Monday May 8
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18875/openstack-upstream-institute-highlights 16:20-16:40
-Tuesday May 9
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18648/women-of-openstack-lunch-sponsored-by-ibm 12:50-13:50
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18613/project-update-openstack-ansible 15:40 - 16:20
-    
-Wednesday May 10
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18711/ansible-project-onboarding 09:00 - 10:30
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18301 11:50 - 12:30
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18649/git-and-gerrit-lunch-and-learn 12:40-13:40
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18759/openstack-ansible-operator-feedback 13:50 - 14:30
-Thursday May 11
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/18301 13:30-14:10
-    https://www.openstack.org/summit/boston-2017/summit-schedule/events/17686 16:10-16:50
+Saturday and Sunday November 4-5
+    https://www.openstack.org/summit/sydney-2017/summit-schedule/events/20363/upstream-institute-sponsored-by-lenovo-day-1-rsvp-required
+    https://www.openstack.org/summit/sydney-2017/summit-schedule/events/20364/upstream-institute-sponsored-by-lenovo-day-2-rsvp-required
+Monday November 6
+    https://www.openstack.org/summit/sydney-2017/summit-schedule/events/20369/speed-mentoring-lunch-hosted-by-the-women-of-openstack 12:15 - 1:30
+    https://www.openstack.org/summit/sydney-2017/summit-schedule/events/20445/openstack-ansible-users-and-ops-feedback-session 1:30 - 2:10
+Tuesday November 7
+    https://www.openstack.org/summit/sydney-2017/summit-schedule/events/19211/the-all-new-coa 10:50 - 11:30 
+    https://www.openstack.org/summit/sydney-2017/summit-schedule/events/20368/women-of-openstack-networking-lunch-sponsored-by-intel 12:20 - 1:50
+    https://www.openstack.org/summit/sydney-2017/summit-schedule/events/20384/openstack-ansible-project-update 5:50 - 6:10
+Wednesday November 8
+    https://www.openstack.org/summit/sydney-2017/summit-schedule/events/19062/git-and-gerrit-lunch-and-learn 12:35 - 1:40
